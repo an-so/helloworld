@@ -11,7 +11,7 @@ public class HelloWorld {
 	cloneWithDifferentBraceFormatting();
   }
   
-  private static clone() {
+  private static void clone() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);

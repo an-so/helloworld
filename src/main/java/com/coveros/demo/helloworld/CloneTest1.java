@@ -11,7 +11,7 @@ public class HelloWorld {
 	cloneWithDifferentBraceFormatting();
   }
   
-  private static clone() {
+  private static void clone() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
@@ -25,7 +25,7 @@ public class HelloWorld {
 	}
   }
   
-  private static cloneWithDifferentVariableName() {
+  private static void cloneWithDifferentVariableName() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
@@ -39,7 +39,7 @@ public class HelloWorld {
 	}
   }
   
-  private static cloneWithDifferentCommentFormatting() {
+  private static void cloneWithDifferentCommentFormatting() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
@@ -53,7 +53,7 @@ public class HelloWorld {
 	}
   }
   
-  private static cloneWithAdditionalComment() {
+  private static void cloneWithAdditionalComment() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
@@ -67,7 +67,7 @@ public class HelloWorld {
 	}
   }
   
-  private static cloneWithDifferentFreeLines() {
+  private static void cloneWithDifferentFreeLines() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
@@ -81,7 +81,7 @@ public class HelloWorld {
 	}
   }
   
-  private static cloneWithDifferentBraceFormatting() {
+  private static void cloneWithDifferentBraceFormatting() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
