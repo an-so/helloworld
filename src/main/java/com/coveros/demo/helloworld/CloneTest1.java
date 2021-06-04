@@ -3,7 +3,7 @@ package com.coveros.demo.helloworld;
 public class CloneTest1 {
 
   public static void main(final String[] args) {
-    clone();
+    cloneTest();
 	cloneWithDifferentVariableName();
 	cloneWithDifferentCommentFormatting();
 	cloneWithAdditionalComment();
@@ -11,7 +11,7 @@ public class CloneTest1 {
 	cloneWithDifferentBraceFormatting();
   }
   
-  private static void clone() {
+  private static void cloneTest() {
 	int n1 = 0, n2 = 1, n3, i, count = 10;
 	//printing 0 and 1
 	System.out.print(n1 + " " + n2);
