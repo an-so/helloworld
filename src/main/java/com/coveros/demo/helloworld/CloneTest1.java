@@ -1,6 +1,6 @@
 package com.coveros.demo.helloworld;
 
-public class HelloWorld {
+public class CloneTest1 {
 
   public static void main(final String[] args) {
     clone();
