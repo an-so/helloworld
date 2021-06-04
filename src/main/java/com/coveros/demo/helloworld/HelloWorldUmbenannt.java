@@ -12,8 +12,5 @@ class HelloWorldUmbenannt {
     System.out.println("Hello, World! The current time is " + dtf.format(now));
   }
   
-	private static void testMethod() {
-		System.out.println("Hello, World!");
-	}
 
 }
