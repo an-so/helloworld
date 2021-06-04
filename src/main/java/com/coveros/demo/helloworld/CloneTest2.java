@@ -5,7 +5,7 @@ public class HelloWorld {
   public static void main(final String[] args) {
     clone();
 	cloneWithDifferentVariableName();
-	cloneWithDifferentCommentFormatting()
+	cloneWithDifferentCommentFormatting();
 	cloneWithAdditionalComment();
 	cloneWithDifferentFreeLines();
 	cloneWithDifferentBraceFormatting();
